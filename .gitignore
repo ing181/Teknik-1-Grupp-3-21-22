@@ -3,6 +3,8 @@
 # But not .cpp or .h
 !*.cpp
 !*.h
+# Not Arduino source files
+!*.ino
 # Or directories
 !*/
 !.gitignore
